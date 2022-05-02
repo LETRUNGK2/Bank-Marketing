@@ -1,5 +1,12 @@
-# Bank-Marketing
-This repository apply SQL to analyze dataset which generated from an implicit bank marketing campaign and find key insight to develop a more effective strategy for future campaign
+# Bank-Marketing 
+This repository apply SQL to analyze dataset which generated from an autonomous bank marketing campaign,which convince customer to agree to terms deposit, and find key insight to develop a more effective strategy for future campaign. 
+
+Key questions should be addressed:
+1. Who are more willing to accept term deposit ?
+2. What are/is similarity for those customer who accept term deposit
+3. what is the successf rate after multiple call attempts? 
+
+
 
 # Dataset explaination for initial understanding
 - Data described the results from the marketing campaign of financial institutions whether the customers agreed to subscribe to a bank term deposit or not.
@@ -12,3 +19,4 @@ Datasource: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 - **Financial Status**: Yearly Balance, housing and loan status are also critical to understand whether the customer has sufficient funds to make terms deposit
 - **The Status of the call** (call duration - number of time contacted - number of time re-contacted, call result) could be considered to analyze to find similarity of the call duration both successful and failed  
 
+# 
