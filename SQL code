@@ -1,4 +1,16 @@
 --Phase 1: Inspect Data
+
+SELECT contact, COUNT(contact) FROM (select job FROM dbo.bankmkt WHERE job = 'admin.')
+GROUP BY contact
+
+SELECT poutcome,count(poutcome) FROM dbo.bankmkt
+GROUP BY poutcome
+
+SELECT deposit,count(deposit) FROM dbo.bankmkt
+GROUP BY deposit
+
+SELECT previous,count(previous)FROM bankmkt GROUP BY previous order BY previous desc
+
 --Phase 2: Clean Data
 --1. Remove unneeded "." in job column 
 	
