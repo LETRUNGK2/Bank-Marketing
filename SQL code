@@ -66,7 +66,7 @@ select * from bankmkt
 alter table bankmkt 
 drop column age
 
--- Phase 3:Analytic questions.
+-- Phase 3: Analytic questions.
 
 -- 3.1 Let's start by grouping successful outcomes by 
 -- 3.1 customer demographic (age,job,marital status and education background)
@@ -113,6 +113,7 @@ from bankmkt
 where outcome = 'yes'
 group by contacteddate
 ) 
+
 select top10.month,sum(top10.frequency) as top10frequency from top10 
 group by top10.month
 order by top10frequency desc
