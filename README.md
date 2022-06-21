@@ -21,9 +21,12 @@ Datasets are break down into 3 areas for better understanding:
 
 #  IV. Project Phase
 - Phase 1: Inspect and clean Data
-- Phase 2: Descriptive analytic:Understand and Build customer profiles marketing campaign such as customer demographic, campaign outcomes on monthly              basis,retargeting attempts. This analytic will be visualized via Power BI
+- Phase 2: Descriptive analytic:
+      - Understand and Build customer profiles marketing campaign such as customer demographic, financial status ,retargeting attempts. 
 - Phase 3: Diagnostic 
 - Phase 4: Predictive analytic is performed to forcast the campaign outcome if we target the the customer's segment that has been identified in phase 2
 
 # V. Project Conclusion 
--          
+- Visualization 
+- Key findings
+- Recommendations for future marketing campaign          
