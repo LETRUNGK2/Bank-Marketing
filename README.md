@@ -2,7 +2,7 @@
 This repository apply SQL to analyze dataset which generated from an autonomous bank marketing campaign,which convince customer to agree to terms deposit, and find key insight to develop a more effective strategy for future campaign. 
 
 Key questions should be addressed:
-1. Who are more willing to accept term deposit ?
+1. Who are more willing to accept term deposit? Build Customer Profiles who are more likely to make term deposit 
 2. How many call attemps should we make to convince customer? 
 3. For retargeting customers from previous campaign, what is the successful rate ?
 
@@ -23,8 +23,8 @@ Datasets are break down into 3 areas for better understanding:
 - Phase 1: Inspect data
 - Phase 2: clean Data
 - Phase 3: Build customer profile and make recommendation
-      - Descriptive analytic:
       - Understand and Build customer profiles marketing campaign such as customer demographic, financial status ,retargeting attempts. 
+   
 
 
 
