@@ -20,13 +20,11 @@ Datasets are break down into 3 areas for better understanding:
 - Some data field will be modified,dropped and rennamed during data cleaning phase
 
 #  IV. Project Phase
-- Phase 1: Inspect and clean Data
-- Phase 2: Descriptive analytic:
+- Phase 1: Inspect data
+- Phase 2: clean Data
+- Phase 3: Build customer profile and make recommendation
+      - Descriptive analytic:
       - Understand and Build customer profiles marketing campaign such as customer demographic, financial status ,retargeting attempts. 
-- Phase 3: Diagnostic 
-- Phase 4: Predictive analytic is performed to forcast the campaign outcome if we target the the customer's segment that has been identified in phase 2
 
-# V. Project Conclusion 
-- Visualization 
-- Key findings
-- Recommendations for future marketing campaign          
+
+
