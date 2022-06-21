@@ -120,14 +120,3 @@ order by top10frequency desc
 -- April to August
 
 
-With top10 as (
-
-select month(contacteddate) as Month, count(outcome) as frequency 
-from bankmkt	
-where outcome = 'yes'
-group by contacteddate
-) 
-select top10.month,sum(top10.frequency) as top10frequency from top10 
-group by top10.month
-order by top10frequency desc
-
