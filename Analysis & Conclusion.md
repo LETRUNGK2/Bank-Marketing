@@ -32,10 +32,10 @@ Once the data has been cleaned and transformed, Tableau will be used to visualiz
 - Phase 3: Build customer profile and make recommendation
 - Build customer profiles marketing campaign such as customer demographic
  
-**Age Group**
+##Age Group
 ![Screenshot 2022-06-23 141443](https://user-images.githubusercontent.com/96038598/175366985-df0c9b65-aeb9-423b-9fe1-f989fad9ce3e.png)
 
-
+## Call Duration
 
 
 
