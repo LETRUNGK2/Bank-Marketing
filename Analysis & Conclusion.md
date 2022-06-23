@@ -31,13 +31,10 @@ Datasets are break down into 3 areas for better understanding:
 Once the data has been cleaned and transformed, Tableau will be used to visualize and find key insights. 
 - Phase 3: Build customer profile and make recommendation
 - Build customer profiles marketing campaign such as customer demographic
-      
+ 
+######Age Group 
 ![Screenshot 2022-06-23 132409](https://user-images.githubusercontent.com/96038598/175359594-ebcbe55d-c391-4441-9445-c4ca4f4713cc.png)
 
 
-      - Identify target customer's financial background
-      - Call effort to 
 
-
-      - Identify target customer's financial background
-      - Call effort to 
+     
