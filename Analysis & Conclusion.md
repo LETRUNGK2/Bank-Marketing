@@ -40,3 +40,10 @@ Once the data has been cleaned and transformed, Tableau will be used to visualiz
 ![Screenshot 2022-06-23 141427](https://user-images.githubusercontent.com/96038598/175367744-6f53156a-3874-4589-9c95-9c4c28227871.png)
 
      
+### V. Conclusion:
+Customer Profile:
+-  Target customers who are likely to make deposit are from 25 to 55 years old and had secondary education and above. 
+-  In addition, professional job such as management, blue-collar and technician. 
+-  In term of personal profile, single and married profiles are our target customer while there is no significant different from housing status
+Call Performance
+-  Customer preferred to agree on term deposit from April to August period as they may need money at the years end for shopping and travel purposes. 
