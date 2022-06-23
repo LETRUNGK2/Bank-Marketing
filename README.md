@@ -1,5 +1,5 @@
 # I. Project Overview
-This repository apply SQL to analyze dataset which generated from an autonomous bank marketing campaign,which convince customer to agree to terms deposit, and find key insight to develop a more effective strategy for future campaign. 
+This repository apply SQL to analyze dataset which generated from an autonomous bank marketing campaign,which convince customer to agree to terms deposit, find key insight to develop a more effective strategy for future campaign then allocate telemarketing resources to increase call conversion while reduce wasted resources. 
 
 Key objectives for this project:
 1. Understand and build customer profile 
