@@ -1,15 +1,17 @@
 # I. Project Overview
-This repository apply SQL to analyze dataset which generated from an autonomous bank marketing campaign,which convince customer to agree to terms deposit, find key insight to develop a more effective strategy for future campaign then allocate telemarketing resources to increase call conversion while reduce wasted resources. 
+This repository utilizes SQL for the analysis of a dataset generated from an autonomous bank marketing campaign. The goal is to  uncover crucial insights that can be used to enhance the strategy for future marketing campaigns. This involves optimizing telemarketing resources to boost call conversion rates while minimizing resource wastage.
 
-Key objectives for this project:
-1. Understand and build customer profile 
-2. Identify customer's financial background 
-3. Retargeting effort 
+Main Project Objectives:
+
+-Gain a comprehensive understanding of and construct customer profiles.
+-Discern the financial backgrounds of customers.
+-Improve retargeting efforts
 
 # II. Dataset explaination for initial understanding
-- Data described the results from the marketing campaign of financial institutions whether the customers agreed to subscribe to a bank term deposit or not.
-- The campaign conducted and recorded by telesales team. 
-- The range of records included: customers' profiles which are ages, occupation & marital status, bank balance, housing and loan status, education background. Data from the previous marketing campaign is also included: customers who have not yet called, number of contact from the previous campaign and whether the past campaign was successful or not. 
+This dataset provides insights into the outcomes of a financial institution's marketing campaign, specifically whether customers agreed to subscribe to a bank term deposit or not.
+
+The campaign was executed and documented by a telesales team. The dataset encompasses a wide range of records, including customer profiles featuring age, occupation, marital status, bank balance, housing and loan status, and educational background. Additionally, it includes data from the previous marketing campaign, such as information on customers who have not yet been contacted, the number of contacts made during the previous campaign, and the success or failure of the past campaign. 
+
 Datasource: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 
 
