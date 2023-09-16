@@ -2,7 +2,6 @@
 This repository utilizes SQL for the analysis of a dataset generated from an autonomous bank marketing campaign. The goal is to  uncover crucial insights that can be used to enhance the strategy for future marketing campaigns. This involves optimizing telemarketing resources to boost call conversion rates while minimizing resource wastage.
 
 Main Project Objectives:
-
 -Gain a comprehensive understanding of and construct customer profiles.
 -Discern the financial backgrounds of customers.
 -Improve retargeting efforts
